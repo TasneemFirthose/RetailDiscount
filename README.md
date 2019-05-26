@@ -15,11 +15,11 @@
  
 # sample response:
  
- discount_amount= 500*(30/100)
- net_amount= 500-150
+ discount_amount= 500*(30/100); 
+ net_amount= 500-150; 
  net_amount= 350
   
-  if(net_amount>=100) 
+#  if(net_amount>=100) 
    
    if(350>=100)
    {
