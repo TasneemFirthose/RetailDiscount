@@ -8,10 +8,10 @@
  
 # input data:
  
- userType: employee
- amount: 500
- years: 3
- item_type: clothing
+ userType: employee 
+ amount: 500 
+ years: 3 
+ item_type: clothing 
  
 # sample response:
  
@@ -23,6 +23,6 @@
    
    if(350>=100)
    {
-     discout_amount= 350*(5/100)
+     discout_amount= 350*(5/100);
      net_amount= 350- 17.5
 #  net_amount= 332.5
