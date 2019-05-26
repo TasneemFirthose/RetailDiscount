@@ -1,6 +1,4 @@
 # RetailDiscount
-# Getting Started
- 
  
 # sample request api:
 
