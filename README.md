@@ -2,7 +2,7 @@
 # Getting Started
  
  
-#sample request api:
+# sample request api:
 
 #  http://localhost:8080/retail/netAmount/{employee}
  
